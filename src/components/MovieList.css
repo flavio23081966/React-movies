@@ -1,0 +1,24 @@
+.poster {
+    width: 260px;    
+}
+
+a {
+    text-decoration: none;
+    color: azure;
+}
+
+
+li {
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+
+ul{
+    
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
